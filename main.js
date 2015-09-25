@@ -53,6 +53,10 @@ var RonaldReagan = {
 	yearsOfPresidency  = '1981-1989'
 }
 
+function myfunction() {
+	console.log(presidents [2],lastName,firstName);
+}
+
 //functions//
 
 function howdy () {
