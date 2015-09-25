@@ -1,10 +1,13 @@
+
+//Array//
+
 var iceCream = [
 	"chocolate chip cookie dough"
 	"strawberry"
 	"sea salt and carmel"
 ]
 
-
+//Objects//
 
 var BarrackObama = {
 	firstName = 'Barrack'
@@ -49,4 +52,40 @@ var RonaldReagan = {
 	party = 'Republican'
 	yearsOfPresidency  = '1981-1989'
 }
+
+//functions//
+
+function howdy () {
+	console.log ('Anna Roberts says hello!')
+}
+
+
+
+
+//function expression 
+
+var numba = function ("string") {
+	if (string , numba) {
+		console.log ('What a short little word!');
+
+	else if (string > numba) {
+		console.log ('I am sorry, but that is too many to count');
+	}
+	else if (string = numba) {
+		console.log ('What a perfect choice!');
+	}
+
+function numba (string) {
+	printToConsole ("7")
+	printToConsole ("seventy")
+	printToConsole ("university")
+}
+
+function inception (callback, value) {
+	callback (value);
+	console.log ("Batman is a great movie!")
+}
+	
+
+};
 
