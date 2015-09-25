@@ -5,13 +5,10 @@ var iceCream = [
 	"chocolate chip cookie dough"
 	"strawberry"
 	"sea salt and carmel"
-	"iceCream.push (chocolate mint)"
-]
-
+	iceCream.push ('mint chocolate chip')
+];
 
 //Objects//
-
-var presidents = [ 
 
 var BarrackObama = {
 	firstName = 'Barrack'
@@ -57,16 +54,11 @@ var RonaldReagan = {
 	yearsOfPresidency  = '1981-1989'
 }
 
-]
-
-function myFunction () {
-	console.log (presidents [2], lastName,firstName);
+function myfunction() {
+	console.log(presidents [2],lastName,firstName);
 }
 
 //functions//
-
-
-//function expression 
 
 function howdy () {
 	console.log ('Anna Roberts says hello!')
@@ -74,9 +66,11 @@ function howdy () {
 
 
 
-//function declararion
+
+//function expression 
+
 var numba = function ("string") {
-	if (string < numba) {
+	if (string , numba) {
 		console.log ('What a short little word!');
 
 	else if (string > numba) {
@@ -86,15 +80,17 @@ var numba = function ("string") {
 		console.log ('What a perfect choice!');
 	}
 
-function numba ("string") {
+function numba (string) {
 	printToConsole ("7")
 	printToConsole ("seventy")
 	printToConsole ("university")
 }
 
-var inception = function inception ("callback, value") {
+function inception (callback, value) {
 	callback (value);
 	console.log ("Batman is a great movie!")
-};
+}
 	
+
+};
 
