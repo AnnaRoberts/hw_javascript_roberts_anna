@@ -6,8 +6,8 @@ var iceCream = [
 
 
 
-var BarrackObama = {
-	firstName = 'Barrack'
+var BarackObama = {
+	firstName = 'Barack'
 	lastName = 'Obama'
 	termLength = 'two terms'
 	party = 'Democrat'
